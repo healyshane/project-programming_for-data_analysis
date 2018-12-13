@@ -4,9 +4,9 @@ Project for Programming for Data Analysis
 
 This repository contains:
 
-A Jupyter Notebook
-Apache License Version 2.0
-README file
+* A Jupyter Notebook
+* Apache License Version 2.0
+* README file
 
 The objective of this assignment was to synthesise a data set of a real world  phenomenon. 
 The phenomenon chosen was glaciers and what factors influence them. 
