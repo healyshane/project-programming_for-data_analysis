@@ -11,7 +11,7 @@ This repository contains:
 The objective of this assignment was to synthesise a data set of a real world  phenomenon. 
 The phenomenon chosen was glaciers and what factors influence them. 
 
-This project was performed in a Jupyter Notebook, available through Anaconda distribution and code was written using Python. The Python packages used during investigation were NumPy, matplotlib, pandas and math.
+This project was performed in a Jupyter Notebook, available through Anaconda distribution and code was written using Python. The Python packages used during investigation were NumPy, matplotlib, pandas, math and SciPy.
 
 Git was used to track changes to repository and Jupyter Notebook.
 
